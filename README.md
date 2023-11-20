@@ -18,5 +18,5 @@ O script calculará a previdência, férias, décimo terceiro e um valor fixo ad
 # Exemplo de Saída
 Ao executar o código, a saída será similar à seguinte:
 
-![Projeto Rodando](img/foto_projeto.png)
+![Projeto Rodando](img/img.png)
 
